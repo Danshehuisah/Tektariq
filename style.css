@@ -1,0 +1,32 @@
+/* You can remove this part */
+body {
+    background-color: black;
+    padding: 0%;
+    margin: 0;
+}
+/* You can skip the above code */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    /* The following are optional, you can remove the codes */
+    background-color: white;
+    height: 40px;
+    padding: 8px;
+}
+
+.logo-container {
+    width: 20%;
+}
+
+.logo-container img {
+    width: 100%;
+}
+
+.nav-container {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
